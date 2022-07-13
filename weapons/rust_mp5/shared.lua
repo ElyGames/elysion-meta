@@ -40,12 +40,12 @@ SWEP.Primary.SilencedSound= "darky_rust.mp5-attack-silenced"
 SWEP.Primary.Spread = .004365*10
 SWEP.Primary.IronAccuracy = .004365
 
-SWEP.Primary.Damage = 35
+SWEP.Primary.Damage = 80
 SWEP.Primary.ClipSize = 30
 SWEP.Primary.Ammo = "pistol"
 SWEP.Primary.DefaultClip = 30
 SWEP.Primary.Automatic = true
-SWEP.Primary.RPM = 600
+SWEP.Primary.RPM = 1200
 
 SWEP.Primary.Range = 2048
 SWEP.Primary.RangeFalloff = 0.8
